@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import cover from '../assets/cover.jpg';
-import { createGlobalStyle } from 'styled-components';
 import customFont from "../assets/Fonts/AttackGraffiti-3zRBM.ttf"
 
 
