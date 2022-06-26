@@ -22,18 +22,7 @@ const Hero = () =>{
 const Wrapper = styled.div`
 
 `
-const GlobalStyle = createGlobalStyle`
-  @font-face {
-    font-family: 'Major Mono Display';
-    src: url(${customFont}) format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    font-display: auto;
-  }
-  h1 {
-    font-family: ' Attack Graffiti';
-  }
-`;
+
 
 const Section = styled.div`
 
