@@ -19,6 +19,8 @@ const Hero = () =>{
     )
 };
 
+
+
 const Wrapper = styled.div`
 
 `
@@ -46,9 +48,9 @@ opacity:0.7;
 
 const Heading = styled.h1`
 
-font-family: 'Lato', sans-serif;
+font-family: 'Blaka Hollow', cursive;
 color:#fff;
-font-size:48px;
+font-size:72px;
 font-style: Attack Graffiti;
 z-index:1;
 `
