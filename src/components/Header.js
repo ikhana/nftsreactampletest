@@ -14,11 +14,11 @@ const Header = () =>{
 
             <Nav>
             <UL>
-                <LI>Menu1</LI>
-                <LI>Menu1</LI>
-                <LI>Menu1</LI>
-                <LI>Menu1</LI>
-                <LI>Menu1</LI>
+                <LI>Home</LI>
+                <LI>Stories</LI>
+                <LI>Litepaper</LI>
+                <LI>Team</LI>
+                <LI>Contract</LI>
 
             </UL>
             </Nav>
@@ -51,6 +51,7 @@ list-style-type:none;
 const LI = styled.li `
 padding:10px 20px;
 color: #fff;
+cursor: pointer;
 `
 
 export default Header;
